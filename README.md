@@ -19,7 +19,8 @@ Customer Feedback: Review Rating
 Shipping Information: Shipping Type
 Some missing values were identified in the dataset and handled during the data cleaning process.
 
-Tools & Technologies
+Tools & Technologies      
+
 Tool	Purpose
 Python	Data loading, cleaning, and exploratory analysis
 Pandas / NumPy	Data manipulation and preprocessing
@@ -30,6 +31,7 @@ Gamma	Creating presentation slides
 Jupyter Notebook	Analysis environment
 
 Project Steps
+
 1. Data Loading
 
 Imported the dataset using Python (Pandas,Numpy)
@@ -56,8 +58,8 @@ Impact of discounts and subscriptions
 4. SQL Business Analysis
 
 The cleaned dataset was loaded into a database for deeper analysis using SQL.
-Example analyses include:
 
+Example analyses include:
 Revenue by gender
 Top products by rating
 Customer segmentation
@@ -71,7 +73,6 @@ Built an interactive Power BI dashboard to visualize key metrics and trends for 
 6. Reporting
 
 Insights from the analysis were documented in:
-
 A business analysis report
 A presentation created using Gamma
 Dashboard
@@ -88,11 +89,9 @@ Shipping Type Comparison
 The dashboard allows users to quickly explore trends and identify opportunities for business growth.
 
 Results & Insights
+
 Key insights from the analysis include:
 Subscription customers tend to spend more on average.
-
 Repeat customers contribute significantly to overall revenue.
-
 Discounts influence purchasing behavior but should be managed carefully to protect profit margins.
-
 Certain products have high ratings but lower sales, indicating potential marketing opportunities.
