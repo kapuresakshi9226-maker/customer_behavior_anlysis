@@ -1,8 +1,4 @@
 # customer_behavior_anlysis
-Analyzed customer shopping behavior using Python, SQL, and Power BI to identify revenue trends, customer segments, and product performance. The project includes data cleaning, exploratory data analysis, SQL business queries, and an interactive dashboard to generate actionable business insights.
-
-Customer Shopping Behavior Analysis
-Overview
 
 This project analyzes customer shopping behavior using transactional data to uncover patterns in customer purchases, product preferences, and spending habits.
 The workflow combines Python for data processing and exploratory data analysis (EDA), SQL for business analysis, and Power BI for data visualization. The goal is to transform raw data into meaningful insights that support business decision-making.
