@@ -1,4 +1,4 @@
-# customer_behavior_anlysis
+# customer_behavior_analysis
 
 This project analyzes customer shopping behavior using transactional data to uncover patterns in customer purchases, product preferences, and spending habits.
 The workflow combines Python for data processing and exploratory data analysis (EDA), SQL for business analysis, and Power BI for data visualization. The goal is to transform raw data into meaningful insights that support business decision-making.
